@@ -32,3 +32,19 @@ One of the Katas, the Roman Numerals Encoder was tough for me. I was trying to s
 The website project
 + [Code](https://github.com/sharkba1t/Responsive-Club-Website)
 + [See it live here](https://sharkba1t.github.io/Responsive-Club-Website/)
+
+### Day 3: January 2, 2022
+**Today's Progress**:  
++ learned class & runtime enviroments for JavaScript
++ learned the basics of Django
++ finished a 4kyu kata on Codewars.com
+
+**Thoughts:**  
+JavaScript class was very similar to Python class. I also refreshed my memories on getter and setter methods as I was learning.  
+I also learned the basics of Django: how to start a new project, run the server, and to add apps to the project. In the process I also got more familiar with command line commands. It really is use it or lose it with things you learned!  
+Finally, I solved a 4kyu kata on Codewars. The algorithm was a bit tough to work out, but I got it eventually. The solution wasn't perfect, but I got to learn from others' solutions.
+
+**Link to work:**  
+The said 4Kyu kata  
++ [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
++ [my solutions](https://www.codewars.com/users/sharkba1t/completed_solutions/)
