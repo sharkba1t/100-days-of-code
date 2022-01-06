@@ -16,3 +16,9 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Saturday, 2022].
 + learned class & runtime enviroments for JavaScript
 + learned the basics of Django
 + finished a 4kyu kata on codewars.com
+
+### R1D3.5
++ solved some katas on codewars.com
+
+### R1D4
++ finished JavaScript Syntax Part III on Codecademy.com

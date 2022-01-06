@@ -33,7 +33,7 @@ The website project
 + [Code](https://github.com/sharkba1t/Responsive-Club-Website)
 + [See it live here](https://sharkba1t.github.io/Responsive-Club-Website/)
 
-### Day 3: January 2, 2022
+### Day 3: January 3, 2022
 **Today's Progress**:  
 + learned class & runtime enviroments for JavaScript
 + learned the basics of Django
@@ -48,3 +48,21 @@ Finally, I solved a 4kyu kata on Codewars. The algorithm was a bit tough to work
 The said 4Kyu kata  
 + [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
 + [my solutions](https://www.codewars.com/users/sharkba1t/completed_solutions/)
+
+### Day 3.5: January 4, 2022
+**Today's Progress**:  
++ solved a couple katas on codewars.com
+
+**Thoughts:**  
+I am experiencing burnt out so not much progress today, so no progress on learning/projects. I didn't track the time it took for me to solve the katas.
+
+**Link to work:**  
+My Codewars completed_solutions  
++ [my solutions](https://www.codewars.com/users/sharkba1t/completed_solutions/)
+
+### Day 4: January 5, 2022
+**Today's Progress**:
++ finished JavaScript Syntax Part III on Codecademy
+
+**Thoughts:**  
+The burnt out is not as bad as yesterday, but it is still here. I'm glad I still made decent progress in learning, though. On top of learning, I need to work on retraining my knowledge, which means I need to plan a review session in the future.
