@@ -66,3 +66,14 @@ My Codewars completed_solutions
 
 **Thoughts:**  
 The burnt out is not as bad as yesterday, but it is still here. I'm glad I still made decent progress in learning, though. On top of learning, I need to work on retraining my knowledge, which means I need to plan a review session in the future.
+
+### Day 5: January 7, 2022
+**Today's Progress**:  
++ Began working on a calculator app in the browser
++ learn about TDD(Test Driven Development) and using Mocha for JavaScript
++ (not coding) Read about Async JavaScript, HTTP Requests, security, and API.
+
+**Thoughts:**  
+I took a break the day before because of hand pain. Posture and rest are important.  
+I experienced "use it or lose it" when I tried to make the calculator app. I almost forgot how to use JavaScript for DOM! Luckily, a couple quick searches and reading notes fixed that issue.  
+On top of that, I did some reading on that's not directly related to coding, but related to Front-End. Some of the concepts are hard to understand at first, but I will have a better understanding as I learn more about them.

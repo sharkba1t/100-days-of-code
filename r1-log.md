@@ -22,3 +22,8 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Saturday, 2022].
 
 ### R1D4
 + finished JavaScript Syntax Part III on Codecademy.com
+
+### R1D5
++ Began: calculator app for browser
++ learn about TDD(Test Driven Development) and using Mocha for JavaScript
++ Read about Async JavaScript, HTTP Requests, security, and API.
