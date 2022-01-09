@@ -27,3 +27,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Saturday, 2022].
 + Began: calculator app for browser
 + learn about TDD(Test Driven Development) and using Mocha for JavaScript
 + Read about Async JavaScript, HTTP Requests, security, and API.
+
+### R1D6
++ Continued learning Async JavaScript and HTTP Requests.  
++ worked on the calculator app

@@ -77,3 +77,15 @@ The burnt out is not as bad as yesterday, but it is still here. I'm glad I still
 I took a break the day before because of hand pain. Posture and rest are important.  
 I experienced "use it or lose it" when I tried to make the calculator app. I almost forgot how to use JavaScript for DOM! Luckily, a couple quick searches and reading notes fixed that issue.  
 On top of that, I did some reading on that's not directly related to coding, but related to Front-End. Some of the concepts are hard to understand at first, but I will have a better understanding as I learn more about them.
+
+### Day 6: January 8, 2022
+**Today's Progress**:  
++ Continued learning Async JavaScript and HTTP Requests.  
++ worked on the calculator app
+
+**Thoughts:**  
+I am slowly picking up the pace of learning. Async JavaScript was a bit tough to understand at first, but I finished the lesson.  
+I noticed the text overflows from the calculator display window if too many digits are entered, but instead of fixing it, I added a popup window claiming "it's a feature". I am experimenting with "popup windows" and draggable elements using JavaScript, and I ended up diving into a rabbit hole of learning [why using `event.pageX` will result in the IDE warning "event is deprecated"](https://stackoverflow.com/questions/64585035/im-trying-to-call-event-but-my-visual-code-say-event-is-deprecated-ts6385) ([MDN documentation linked in the answer here](https://stackoverflow.com/questions/64585035/im-trying-to-call-event-but-my-visual-code-say-event-is-deprecated-ts6385))
+
+**Link to work:**   
++ [Calculator App, but the bugs are features](https://imgur.com/a/7v9U2Ps)
