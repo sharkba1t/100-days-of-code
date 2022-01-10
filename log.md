@@ -89,3 +89,15 @@ I noticed the text overflows from the calculator display window if too many digi
 
 **Link to work:**   
 + [Calculator App, but the bugs are features](https://imgur.com/a/7v9U2Ps)
+
+### Day 7: January 9, 2022
+**Today's Progress**:  
++ finished learning Async JavaScript and HTTP Requests.
++ learned about web apps  
++ worked on portfolio site
+
+**Thoughts:**  
+I finally finished the first 15 modules of Front-End Path on Codecademy, well, except for the portfolio site project. I skipped it to keep learning so I won't have an excuse to procrastinate from my lessons by saying, "I haven't done the project yet. I can't move on!"  
+I will start the React unit in the upcoming week.  
+I finally figured out how to make a toggle switch using HTML & CSS, and I found out what I did wrong before and why the switch background won't change color. On top of that, I finally put my knowledge of CSS transition & animations to use by making an animated header for my portfolio site.  
+I still haven't fully figured out how to make a draggable window yet. I'll figure it out eventually.

@@ -31,3 +31,7 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Saturday, 2022].
 ### R1D6
 + Continued learning Async JavaScript and HTTP Requests.  
 + worked on the calculator app
+
+### R1D7
++ finished the first 15 modules of the Front-End engineer path on Codecademy
++ worked on portfolio site (HTML/CSS)
