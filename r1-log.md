@@ -35,3 +35,14 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Saturday, 2022].
 ### R1D7
 + finished the first 15 modules of the Front-End engineer path on Codecademy
 + worked on portfolio site (HTML/CSS)
+
+### R1D8
+**Today's Progress**:  
++ began learning React & JSX
+
+
+### R1D9
++ continued working on portfolio website template
+
+### R1D10
++ finished portfolio website template

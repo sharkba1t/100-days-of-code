@@ -13,19 +13,19 @@
 
 **Today's Progress**: Worked on the CSS for a practice project and some katas on [codewars](https://www.codewars.com/dashboard) for Python and JavaScript
 
-**Thoughts:** I almost gave up on the practice project because the was CSS was a mess and I couldn't fix it. I redid the CSS and I finally got it to look the way as intended.
+**Thoughts:** I almost gave up on the practice project because the CSS was a mess, and I couldn't fix it. I redid the CSS, and I finally got it to look the way as intended.
 
 On the other hand, the Katas went smoothly. I got one of them to work on the first try.
 
 ### Day 2: January 2, 2022
 
 **Today's Progress**:  
-+ made a static webpage for a fictional club using flexbox and grid. I made a rough wireframe using Adobe XD, and then gathered the assets.  
-+ finished a couple Katas on Codewars in JavaScript
++ made a static webpage for a fictional club using flexbox and grid. I made a rough wireframe using Adobe XD and then gathered the assets.  
++ finished a couple of Katas on Codewars in JavaScript
 
 **Thoughts:**  
-The process for the website went a lot smoother than last time I worked on any CSS project.  
-One of the Katas, the Roman Numerals Encoder was tough for me. I was trying to skip the steps and write clean code in one try, which I failed, because I wasn't able to work out the algorithm at first. It took me quite a while to figure out (and also learned how NOT to use switch case), but I made the code work. Also by comparing my code with others, I learned how to think differently when solving problems.  
+The process for the website went a lot smoother than the last time I worked on any CSS project.  
+One of the Katas, the Roman Numerals Encoder was tough. I was trying to skip the steps and write clean code in one try, which I failed because I couldn't work out the algorithm at first. It took me quite a while to figure out (and also learned how NOT to use switch case), but I made the code work. Also, by comparing my code with others, I learned how to think differently when solving problems.  
 
 
 **Link to work:**  
@@ -40,9 +40,9 @@ The website project
 + finished a 4kyu kata on Codewars.com
 
 **Thoughts:**  
-JavaScript class was very similar to Python class. I also refreshed my memories on getter and setter methods as I was learning.  
-I also learned the basics of Django: how to start a new project, run the server, and to add apps to the project. In the process I also got more familiar with command line commands. It really is use it or lose it with things you learned!  
-Finally, I solved a 4kyu kata on Codewars. The algorithm was a bit tough to work out, but I got it eventually. The solution wasn't perfect, but I got to learn from others' solutions.
+JavaScript class was very similar to Python's class. I also refreshed my memories on getter and setter methods as I was learning.  
+I also learned the basics of Django: how to start a new project, run the server, and add apps to the project. In the process, I also got more familiar with command-line commands. It really is "use it or lose it" with things you learned!  
+Finally, I solved a 4kyu kata on Codewars. The algorithm was tough to work out, but I eventually got it. The solution wasn't perfect, but I got to learn from others' solutions.
 
 **Link to work:**  
 The said 4Kyu kata  
@@ -54,7 +54,7 @@ The said 4Kyu kata
 + solved a couple katas on codewars.com
 
 **Thoughts:**  
-I am experiencing burnt out so not much progress today, so no progress on learning/projects. I didn't track the time it took for me to solve the katas.
+I am experiencing burnout, so there is not much progress today. Therefore there is no progress on learning/projects. I didn't track the time it took to solve the katas.
 
 **Link to work:**  
 My Codewars completed_solutions  
@@ -65,7 +65,7 @@ My Codewars completed_solutions
 + finished JavaScript Syntax Part III on Codecademy
 
 **Thoughts:**  
-The burnt out is not as bad as yesterday, but it is still here. I'm glad I still made decent progress in learning, though. On top of learning, I need to work on retraining my knowledge, which means I need to plan a review session in the future.
+The burnt-out is not as bad as yesterday, but it is still here. I'm glad I still made decent progress in learning, though. On top of learning, I need to work on retraining my knowledge, which means I need to plan a review session in the future.
 
 ### Day 5: January 7, 2022
 **Today's Progress**:  
@@ -75,8 +75,8 @@ The burnt out is not as bad as yesterday, but it is still here. I'm glad I still
 
 **Thoughts:**  
 I took a break the day before because of hand pain. Posture and rest are important.  
-I experienced "use it or lose it" when I tried to make the calculator app. I almost forgot how to use JavaScript for DOM! Luckily, a couple quick searches and reading notes fixed that issue.  
-On top of that, I did some reading on that's not directly related to coding, but related to Front-End. Some of the concepts are hard to understand at first, but I will have a better understanding as I learn more about them.
+I experienced "use it or lose it" when making the calculator app. I almost forgot how to use JavaScript for DOM! Luckily, a couple of quick searches and reading notes fixed that issue.  
+On top of that, I did some reading that's not directly related to coding but related to Front-End. Some of the concepts are hard to understand at first, but I will have a better understanding as I learn more about them.
 
 ### Day 6: January 8, 2022
 **Today's Progress**:  
@@ -84,8 +84,8 @@ On top of that, I did some reading on that's not directly related to coding, but
 + worked on the calculator app
 
 **Thoughts:**  
-I am slowly picking up the pace of learning. Async JavaScript was a bit tough to understand at first, but I finished the lesson.  
-I noticed the text overflows from the calculator display window if too many digits are entered, but instead of fixing it, I added a popup window claiming "it's a feature". I am experimenting with "popup windows" and draggable elements using JavaScript, and I ended up diving into a rabbit hole of learning [why using `event.pageX` will result in the IDE warning "event is deprecated"](https://stackoverflow.com/questions/64585035/im-trying-to-call-event-but-my-visual-code-say-event-is-deprecated-ts6385) ([MDN documentation linked in the answer here](https://stackoverflow.com/questions/64585035/im-trying-to-call-event-but-my-visual-code-say-event-is-deprecated-ts6385))
+I am slowly picking up the pace of learning. Async JavaScript was tough to understand at first, but I finished the lesson.  
+I noticed the text overflows from the calculator display window if too many digits are entered, but instead of fixing it, I added a popup window claiming "it's a feature". I am experimenting with "pop-up windows" and draggable elements using JavaScript, and I ended up diving into a rabbit hole of learning [why using `event.pageX` will result in the IDE warning "event is deprecated"](https://stackoverflow.com/questions/64585035/im-trying-to-call-event-but-my-visual-code-say-event-is-deprecated-ts6385) ([MDN documentation linked in the answer here](https://stackoverflow.com/questions/64585035/im-trying-to-call-event-but-my-visual-code-say-event-is-deprecated-ts6385))
 
 **Link to work:**   
 + [Calculator App, but the bugs are features](https://imgur.com/a/7v9U2Ps)
@@ -101,3 +101,36 @@ I finally finished the first 15 modules of Front-End Path on Codecademy, well, e
 I will start the React unit in the upcoming week.  
 I finally figured out how to make a toggle switch using HTML & CSS, and I found out what I did wrong before and why the switch background won't change color. On top of that, I finally put my knowledge of CSS transition & animations to use by making an animated header for my portfolio site.  
 I still haven't fully figured out how to make a draggable window yet. I'll figure it out eventually.
+
+### Day 8: January 10, 2022
+**Today's Progress**:  
++ began learning React & JSX
+
+**Thoughts:**  
+I began learning about the React framework today. It feels like a lifesaver with how easy it is to use it & manage the content on a web page!
+I can only imagine my future web projects will be a lot easier now that I know how to use React.
+
+
+### Day 9: January 11, 2022
+**Today's Progress**:  
++ continued working on portfolio website template
+
+**Thoughts:**  
+I decided to come back to this project because I did not want to keep procrastinating from working on it. I  originally wanted to make a slide show for the project display section. I also decided to turn this into a prototype project instead of my actual portfolio site to mitigate the stress of making it perfect (also why I keep procrastinating from it!)
+I managed to make the tab highlight work for the project section, and during the process, I learned about using "classList" to get a list of class names of a selected element in JavaScript, which opens to many possibilities with what I can do!
+
+**Link to work:**   
++ [portfolio website prototype](https://sharkba1t.github.io/portfolio-website/)
+
+### Day 10: January 12, 2022
+**Today's Progress**:  
++ finished portfolio website template
+
+**Thoughts:**  
+I forgot to log my previous days of progress, but I am catching up on writing the logs! ( Also, I passed my earlier logs into Grammarly to fix some spelling and grammatical issues.)
+
+It was a rocky journey to code the website. I am not too satisfied with the final design, but I decided to stop here. I will apply the experiences I learned from this project in my future projects. I also realize why people generally work with the "mobile-first" philosophy. Fixing all the breakpoint problems when my original site was designed for a fullscreen browser page was not fun!
+Part of my dissatisfaction with the website lies underneath the design (or the lack thereof). I am unfortunately not a designer (though I can proudly say I don't make some... interesting design choices, such as using a neon color background with serif fonts as some projects I've seen.) However, this will be something  I address as I learn. I also plan on learning Adobe XD for quick wireframing & prototyping.
+
+**Link to work:**   
++ [portfolio website prototype](https://sharkba1t.github.io/portfolio-website/)
