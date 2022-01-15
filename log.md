@@ -134,3 +134,28 @@ Part of my dissatisfaction with the website lies underneath the design (or the l
 
 **Link to work:**   
 + [portfolio website prototype](https://sharkba1t.github.io/portfolio-website/)
+
+### Day 11: January 13, 2022
+**Today's Progress**:  
++ continue learning about React on Codecademy
+    + components
+    + props
+
+**Thoughts:**  
+I learned about React Components and props today. Some of the new concepts were confusing at first, such as the event handler as a prop in a component instance vs an actual event handler in the JSX. They may look similar but they are not!
+I also need to start working on some HTML/CSS projects to keep my skills sharps. Use it or lose it!
+
+### Day 12: January 14, 2022
+**Today's Progress**:  
++ continue learning about React on Codecademy
+  + state
+  + passing state from parent component to child components
+
+
+**Thoughts:**  
+I continued learning React.js today. I learned about "state" and passing the state from a stateful parent class to stateless child classes. I also learned about managing & structuring components.
+I found them overwhelming at first because of all the new concepts, but once I took time away from the materials & recap without looking at the materials, I could make sense of them. This experience gave me insights into my learning styles; I will try not to cram too much at once and then give myself time to process new materials in the future.
+
+#### Why I stopped posting on Twitter:
+I have stopped updating my progress on Twitter since my short break for various reasons. I understand that part of this challenge is to show progress publicly; thus, you are held accountable to follow through. On top of that, you can find and offer support in the community. However, I prefer not to maintain one more social media account to update my progress.
+Instead, I will keep updating this GitHub log to document my progress and thoughts during my journey.

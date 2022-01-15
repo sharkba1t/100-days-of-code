@@ -46,3 +46,13 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Saturday, 2022].
 
 ### R1D10
 + finished portfolio website template
+
+### R1D11
++ continue learning about React on Codecademy
+    + components
+    + props
+
+### R1D12
++ continue learning about React on Codecademy
+  + state
+  + passing state from parent component to child components
