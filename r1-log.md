@@ -56,3 +56,11 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Saturday, 2022].
 + continue learning about React on Codecademy
   + state
   + passing state from parent component to child components
+
+### R1D13
+**Today's Progress**:  
++ continue learning React on Codecademy
+  + Lifecycle methods
+  + began practice projects of React
++ a couple Katas on Codewars
+  

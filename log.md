@@ -153,9 +153,24 @@ I also need to start working on some HTML/CSS projects to keep my skills sharps.
 
 
 **Thoughts:**  
-I continued learning React.js today. I learned about "state" and passing the state from a stateful parent class to stateless child classes. I also learned about managing & structuring components.
-I found them overwhelming at first because of all the new concepts, but once I took time away from the materials & recap without looking at the materials, I could make sense of them. This experience gave me insights into my learning styles; I will try not to cram too much at once and then give myself time to process new materials in the future.
+I continued learning React.js today. I learned about "state" and passing the state from a stateful parent class to stateless child classes. I also learned about managing & structuring components.  
+I found them overwhelming at first because of all the new concepts, but once I took time away from the materials & recap without looking at the materials, I could make sense of them. This experience gave me insights into my learning styles; I will try not to cram too much at once and then give myself time to process new materials in the future.  
 
 #### Why I stopped posting on Twitter:
-I have stopped updating my progress on Twitter since my short break for various reasons. I understand that part of this challenge is to show progress publicly; thus, you are held accountable to follow through. On top of that, you can find and offer support in the community. However, I prefer not to maintain one more social media account to update my progress.
-Instead, I will keep updating this GitHub log to document my progress and thoughts during my journey.
+I have stopped updating my progress on Twitter since my short break for various reasons. I understand that part of this challenge is to show progress publicly; thus, you are held accountable to follow through. On top of that, you can find and offer support in the community. However, I prefer not to maintain one more social media account to update my progress.  
+Instead, I will keep updating this GitHub log to document my progress and thoughts during my journey.  
+
+### Day 13: January 15, 2022
+**Today's Progress**:  
++ continue learning React on Codecademy
+  + Lifecycle methods
+  + began practice projects of React
++ a couple Katas on Codewars
+  
+
+**Thoughts:**  
+I learned about lifecycle methods in React.js today. Again, it felt daunting at first with all the new concepts, which is a sign that I need to take a step back and process the new knowledge. I worry that I cannot remember the name for all of the new methods, but I believe with practice I will get used to using them.
+
+I also began the practice project called "jammming" in the lesson. It is a huge project with 99 steps, but the first few parts focus on creating new files for separate components, which I assume is for getting used to the process of making a React app. 
+
+I went back to solving katas on Codewars to make sure I rememeber how Python and vanilla JavaScript works. Since i am currently at 5kyu, the site automatically recommends me 4kyu katas, which are a bit tough for me at the moment, so my plan will be to work a low level kata as warm up and then work on a random 5kyu kata instead.
