@@ -174,3 +174,37 @@ I learned about lifecycle methods in React.js today. Again, it felt daunting at 
 I also began the practice project called "jammming" in the lesson. It is a huge project with 99 steps, but the first few parts focus on creating new files for separate components, which I assume is for getting used to the process of making a React app. 
 
 I went back to solving katas on Codewars to make sure I rememeber how Python and vanilla JavaScript works. Since i am currently at 5kyu, the site automatically recommends me 4kyu katas, which are a bit tough for me at the moment, so my plan will be to work a low level kata as warm up and then work on a random 5kyu kata instead.
+
+### Day 14: January 16, 2022
+**Today's Progress**:  
++ continued Jammming Project on Codecademy
++ wrote a simple python script to generate empty files in a folder with the same name
+
+**Thoughts:**  
+I continued to work through the "Jammming" project. It was a tough project once I went pass the setting up components using the code provided. I also had to restart the project because I messed up some code here and there, and working from a clean slate was easier in the early stage.  
+I also wrote a simple python script that creates a folder and 2 files of the same name for me to make the process easier. I might rewrite it to make it more usable in the future.  
+I had to use the "get unstuck" video to guide me through the process. It was quite rough, but that made me realize I need more practice for developing in React.
+
+
+
+### Day 15: January 17, 2022
+**Today's Progress**:  
++ finished Jammming Project on Codecademy
+  
+
+**Thoughts:**  
+It was a tough project to work through, but I am done with it finally!  
+It helped refresh my memory on Promise and how fetching data works. It also refreshed my knowledge on how API works. Apparently it was one of the projects with a huge difficulty spike within the path.  
+The project asked for adding feature on top of the project, but for now, I want to take a break from it & shift focus on making other things.
+
+
+
+### Day 16: January 18, 2022
+**Today's Progress**:  
++ learned how to use Bootstrap
+
+**Thoughts:**  
+Bootstrap is an easy to use framework, but it clutters the html file with all the classes. I am not sure if I will use this framework often, but it is good to know how it works.  
+Maybe it is time to write a new framework to make styling easier but less clutter in the HTML file? 
+It is not coding related, but I am brainstorming ideas on frontend related projects. I think I am going to work on a website that randomly generates ideas for you.  
+Hopefully I will be able to add link to works soon. I am not adding anything for those as of now because, well, I feel iffy about hosting a practice project that wasn't my original work, exactly.

@@ -64,3 +64,14 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Saturday, 2022].
   + began practice projects of React
 + a couple Katas on Codewars
   
+### R1D14
++ continued Jammming Project on Codecademy
++ wrote a simple python script to generate empty files in a folder with the same name
+
+
+### R1D15
++ finished Jammming Project on Codecademy
+
+
+### R1D16
++ learned how to use Bootstrap
